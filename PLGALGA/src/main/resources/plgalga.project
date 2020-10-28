@@ -1,0 +1,37 @@
+# Plataforma de Lançamento - Gerenciador ALGA
+
+	+ Tecnologias
+	
+		+ BackEnd
+		
+			> Java EE 8 (Spring Boot)
+			> JPA
+			> Maven
+		
+		+ FrontEnd
+		
+		+ Database
+		
+			> MySQL
+		
+		+ Server
+		
+			> Apache TomCat
+			
+	+ Funcionalidades
+	
+	+ Tarefas
+	
+		> PLGALGA-<DIA><MES><ANO><MINUTO><HORA><SEGUNDO>
+	
+	+ Versionamento
+	
+		> GitHub
+		
+			git init
+			git add *
+			git commit -m "PLGALGA"
+			git remote add origin https://github.com/repositorydysprosium/PLGALGA.git
+			git push -u origin master
+	
+	+ Comandos
