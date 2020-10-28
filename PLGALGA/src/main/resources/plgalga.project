@@ -27,11 +27,22 @@
 	+ Versionamento
 	
 		> GitHub
-		
-			git init
-			git add *
-			git commit -m "PLGALGA"
-			git remote add origin https://github.com/repositorydysprosium/PLGALGA.git
-			git push -u origin master
+			
+			-- Versionar
+			
+				git init
+				git add *
+				git commit -m "PLGALGA"
+				git remote add origin https://github.com/repositorydysprosium/PLGALGA.git
+				git push -u origin master
+				-- repositorydysprosium
+				-- ********************
+				
+			-- Criar nova branch
+			
+				git checkout master -b PLGALGA-28102020581859
 	
 	+ Comandos
+		
+		-- XAMPP 
+		sudo /opt/lampp/lampp start
