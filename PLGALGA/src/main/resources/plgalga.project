@@ -39,8 +39,18 @@
 				-- ********************
 				
 			-- Criar nova branch
-			
+				
 				git checkout master -b PLGALGA-28102020581859
+				git checkout master -b PLGALGA-29102020511226
+				
+			-- Realizar merge
+			
+				git checkout master
+				git fetch
+				git pull
+				-- Realizar merge da branch PLGALGA-28102020581859 para a MASTER
+				git merge PLGALGA-29102020411219
+				git push origin master
 	
 	+ Comandos
 		
