@@ -20,9 +20,11 @@
 			
 	+ Funcionalidades
 	
-	+ Tarefas
-	
-		> PLGALGA-<DIA><MES><ANO><MINUTO><HORA><SEGUNDO>
+	+ Tarefas (PLGALGA-<DIA><MES><ANO><MINUTO><HORA><SEGUNDO>)
+		
+		> PLGALGA-28102020581859
+		
+			- Implementar ajustes de conexão com o banco de dados MySQL
 	
 	+ Versionamento
 	
