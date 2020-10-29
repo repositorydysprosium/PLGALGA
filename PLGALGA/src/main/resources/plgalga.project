@@ -46,3 +46,13 @@
 		
 		-- XAMPP 
 		sudo /opt/lampp/lampp start
+		
+		sudo service apache2 start
+		sudo service apache2 restart
+		sudo service apache2 stop
+		
+		spring.jpa.database=MYSQL
+		spring.datasource.url=jdbc:mysql://127.0.0.1/PLGALGA?createDatabaseIfNotExist=true&useSSL=false
+		spring.datasource.data-username=desenvolvimento
+		spring.datasource.data-password=desenvolvimento
+		spring.jpa.show-sql=true
